@@ -1,0 +1,56 @@
+.rule_contents2 {
+    color: #2e2e2e;
+}
+
+.rule_contents {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px 0 100px 0;
+    z-index: 1;
+}
+
+
+div, table, ul, li, ol, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, span {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-weight: normal;
+    list-style: none;
+    font-family: "나눔바른고딕","NanumBarunGothic","맑은 고딕","Malgun Gothic","Apple Gothic","돋움",Dotum,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+div {
+    display: block;
+}
+
+.rule_contents .title {
+    border-bottom: solid 2px #2e2e2e;
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+}
+
+.rule_contents .title .main {
+    color: #2e2e2e;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.rule_contents .title .date {
+    color: #2e2e2e;
+    font-size: 12px;
+}
+
+.rule_bold_text2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.rule_bold_text3 {
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.rule_bold_text4 {
+    padding-left: 20px;
+}
